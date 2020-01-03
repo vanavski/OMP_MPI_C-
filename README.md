@@ -1,1 +1,1 @@
-# OMP_MPI_C-
+# OMP_MPI_C++

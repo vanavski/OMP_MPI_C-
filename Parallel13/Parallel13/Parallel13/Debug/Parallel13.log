@@ -1,0 +1,6 @@
+﻿  pch.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+  Parallel13.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+c:\users\vanavski\source\repos\parallel13\parallel13\parallel13.cpp(24): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Parallel13.vcxproj -> C:\Users\Vanavski\source\repos\Parallel13\Debug\Parallel13.exe

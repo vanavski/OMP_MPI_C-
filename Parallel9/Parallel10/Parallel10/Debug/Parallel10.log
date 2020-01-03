@@ -1,0 +1,5 @@
+﻿  pch.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+  Parallel10.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+  Parallel10.vcxproj -> D:\ParallelC\Parallel9\Parallel10\Debug\Parallel10.exe

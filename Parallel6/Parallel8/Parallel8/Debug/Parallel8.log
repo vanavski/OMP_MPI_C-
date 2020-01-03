@@ -1,0 +1,10 @@
+﻿  Parallel8.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+d:\parallelc\parallel6\parallel8\parallel8\parallel8.cpp(28): error C3861: omp_set_dynamic: идентификатор не найден
+d:\parallelc\parallel6\parallel8\parallel8\parallel8.cpp(29): error C3861: omp_set_num_threads: идентификатор не найден
+d:\parallelc\parallel6\parallel8\parallel8\parallel8.cpp(32): error C3861: omp_get_wtime: идентификатор не найден
+d:\parallelc\parallel6\parallel8\parallel8\parallel8.cpp(41): error C3861: omp_get_wtime: идентификатор не найден
+d:\parallelc\parallel6\parallel8\parallel8\parallel8.cpp(48): error C3861: clock: идентификатор не найден
+d:\parallelc\parallel6\parallel8\parallel8\parallel8.cpp(56): error C3861: clock: идентификатор не найден
+d:\parallelc\parallel6\parallel8\parallel8\parallel8.cpp(56): error C2065: CLOCKS_PER_SEC: необъявленный идентификатор
+d:\parallelc\parallel6\parallel8\parallel8\parallel8.cpp(58): error C3861: printf: идентификатор не найден

@@ -1,0 +1,9 @@
+﻿  pch.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+  Parallel7.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+d:\parallelc\parallel6\parallel7\parallel7\parallel7.cpp(22): warning C4476: "printf": неизвестный символ поля типа "]" в описателе формата
+d:\parallelc\parallel6\parallel7\parallel7\parallel7.cpp(22): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  d:\parallelc\parallel6\parallel7\parallel7\parallel7.cpp(22): note: заполнители и их параметры ожидают переменное число аргументов в количестве 4, но было предоставлено 5
+d:\parallelc\parallel6\parallel7\parallel7\parallel7.cpp(30): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "int (__cdecl *)(void)"
+  Parallel7.vcxproj -> D:\ParallelC\Parallel6\Parallel7\Debug\Parallel7.exe

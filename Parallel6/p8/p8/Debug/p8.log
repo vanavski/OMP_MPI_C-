@@ -1,0 +1,7 @@
+﻿  pch.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+  p8.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+d:\parallelc\parallel6\p8\p8\p8.cpp(59): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+d:\parallelc\parallel6\p8\p8\p8.cpp(59): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "double"
+  p8.vcxproj -> D:\ParallelC\Parallel6\p8\Debug\p8.exe
